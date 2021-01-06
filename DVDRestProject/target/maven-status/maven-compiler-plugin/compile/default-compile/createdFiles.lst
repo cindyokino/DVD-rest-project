@@ -1,0 +1,8 @@
+com\sg\dvdrestproject\dao\DvdInMemoryDao.class
+com\sg\dvdrestproject\dao\DvdDatabaseDao.class
+com\sg\dvdrestproject\dao\DVDDao.class
+com\sg\dvdrestproject\dao\NewClass.class
+com\sg\dvdrestproject\entity\Dvd.class
+com\sg\dvdrestproject\App.class
+com\sg\dvdrestproject\view\NewClass.class
+com\sg\dvdrestproject\controller\DvDController.class
